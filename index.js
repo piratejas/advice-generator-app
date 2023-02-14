@@ -1,4 +1,4 @@
-const diceButton = document.querySelector(".dice-button");
+const diceButton = document.getElementById("dice-button");
 const adviceText = document.querySelector(".advice-text");
 const slipNumber = document.querySelector(".slip-number");
 

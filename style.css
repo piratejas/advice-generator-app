@@ -59,7 +59,7 @@ p {
   margin-bottom: 2rem;
 }
 
-.dice-button {
+#dice-button {
   position: absolute;
   bottom: -28px;
   border: none;
@@ -72,7 +72,7 @@ p {
   cursor: pointer;
 }
 
-.dice-button:hover {
+#dice-button:hover {
   filter: drop-shadow(0 0 0.75rem hsl(150, 100%, 66%));
   transition: all 2ms ease-out;
 }
